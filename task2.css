@@ -1,0 +1,182 @@
+ /* background image */
+ body{
+    background-image: url(unescobackground2.webp);
+    height: 1200px;
+    width: 1600px;
+    background-size: cover;
+}
+/* css for navbar */
+.navbar{
+    height: 160.56px;
+    width: 1600px;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+   
+    
+}
+.logo1{
+    height: 160.56px;
+    width: 260px;
+    background-image: url(unesco2.png);
+    background-size: cover;
+}
+.logo{
+    height: 90px;
+    width: 600px;
+    background-image: url(unesco1.png);
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+/* for baseline */
+.class{
+    height: 100px;
+    width: 1600px;
+    background-color:transparent;
+}
+h2{
+    font-size: 38px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    margin-left: 20px;
+    color: white;
+}
+/* css for row 1 */
+.content1{
+    height: 400px;
+    width: 1600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+}
+/* hover effects */
+.image1{
+    margin-top: 25px;
+    height: 300px;
+    width: 450px;
+    background-image: url(ajantacaves.jpeg);
+    background-size: cover;
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+}
+.image2{
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+
+    margin-top: 25px;
+    height: 300px;
+    width: 450px;
+    background-image: url(tajmahal.jpeg);
+    background-size: cover;
+}
+.image3{margin-top: 25px;
+    height: 300px;
+    width: 450px;
+    background-image: url(khajuraho.jpeg);
+    background-size: cover;
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+}
+
+.p1{
+    font-size: 28px;
+    margin-top: 310px;
+    color: black;
+    font-weight: bolder;
+}
+/* anchor hover effect */
+a{
+    text-decoration: none;
+    color: black;
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+}
+a:hover{
+    color: rgb(10, 180, 247);
+}
+.image1:hover{
+    height: 320px;
+    width: 460px;
+    background-color:rgb(10, 180, 247); ;
+}
+.image2:hover{
+    height: 320px;
+    width: 460px;
+    background-color:rgb(10, 180, 247); ;
+}
+.image3:hover{
+    height: 320px;
+    width: 460px;
+    background-color:rgb(10, 180, 247); ;
+}
+/* for content in the row 2 */
+.content2{
+    margin-top: 60px;
+    height: 400px;
+    width: 1600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+}
+/* image hover effect */
+.image4{
+    margin-top: 25px;
+    height: 300px;
+    width: 450px;
+    background-image: url(elloracaves.jpeg);
+    background-size: cover;
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+}
+.image5{
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+
+    margin-top: 25px;
+    height: 300px;
+    width: 450px;
+    background-image: url(konark.jpeg);
+    background-size: cover;
+}
+.image6{margin-top: 25px;
+    height: 300px;
+    width: 450px;
+    background-image: url(mahabalipuram.jpeg);
+    background-size: cover;
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+}
+.p1{
+    font-size: 28px;
+    margin-top: 310px;
+    color: black;
+    font-weight: bolder;
+}
+/* anchor hover effect */
+a{
+    text-decoration: none;
+    color: black;
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+}
+a:hover{
+    color: rgb(10, 180, 247);
+}
+.image4:hover{
+    height: 320px;
+    width: 460px;
+    background-color:rgb(10, 180, 247); ;
+}
+.image5:hover{
+    height: 320px;
+    width: 460px;
+    background-color:rgb(10, 180, 247); ;
+}
+.image6:hover{
+    height: 320px;
+    width: 460px;
+    background-color:rgb(10, 180, 247); ;
+}
