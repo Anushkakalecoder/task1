@@ -6,6 +6,7 @@ languages used: HTML,
 styling: CSS.
 I have added some other animations for the text content however the image animation is same as that of the original website.
 how to run: task 1 file is saved with the folder name "task1" and html css file with the name as "textproject".
+In case if the webpage is not displayed properly then copy the code paste it on vscode save it with html extention and run it.
 task 2:
 I have designed a UNESCO website for the world heritage sites of India , there are 2 pages first one is home page where I have displayed photos of chosen sites 
 and there is a text below each photos to navigate on heritage site page(seconf page) (on clicking it)
