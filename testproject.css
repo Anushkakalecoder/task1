@@ -1,0 +1,393 @@
+body { 
+background-color: #f0f8ff; 
+}
+.main{
+height: 1540px;
+width:1240px
+}
+.mainblock{
+height:1400px ;
+width:1000px;
+margin-left:13rem;
+font-family: "roboto slang",serif;
+
+}
+.collab{
+height: 30px;
+width:1000px;
+margin-left: 13rem;
+font-size: 29px;
+font-family: "roboto slab",serif;
+
+}
+.b1{
+
+color: #212529;
+font-weight: bold;
+
+
+
+}
+h4{
+margin-left: 1.5rem;
+}
+.box1{
+height: 388px;
+width: 1060px;
+display: flex;
+flex-direction: row;
+
+
+
+}
+
+
+.c1{
+height: 388px;
+width: 520px;
+}
+h2{
+height: 120px;
+width: 420px;
+
+color: #212529;
+font-weight: lighter;
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+font-size: 50px;
+
+}
+h2:hover{
+height:124px;
+width: 420px;
+background-color: #e0f0fe;
+}
+a{
+text-decoration: none;
+}
+
+h3{
+height: 94px;
+width: 420px;
+
+
+color: #212529;
+font-weight: 500;
+
+
+font-size: 18px;
+
+
+}
+.arrow{
+height: 68px;
+width: 422px;
+display: flex;
+flex-direction: row;
+text-decoration: none;
+color: #212529;
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+
+
+}
+.arrow:hover{
+   height:72px;
+width: 300px;
+background-color: #e0f0fe;
+
+}
+.f{
+
+
+color: #212529;
+font-weight:bold;
+
+font-size: 23px;
+
+}
+.image{
+height: 68px;
+width: 26px;
+margin-top: 30px;
+margin-left: 12px;
+}
+
+.image1{
+height: 388px;
+width: 100%;
+background-size: cover;
+background-image: url(IMAGE1.jpg);
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+transition-timing-function: ease-in;
+
+
+}
+.image1:hover{
+   transform: perspective(800px) rotate3d(0, 50, 0, 180deg);
+}
+.box2{
+height: 388px;
+width: 1060px;
+display: flex;
+flex-direction: row;
+
+}
+.d1{
+height: 388px;
+width: 520px;
+}
+
+h2{
+height: 120px;
+width: 420px;
+
+
+color: #212529;
+font-weight: lighter;
+
+font-size: 50px;
+
+
+}
+
+
+
+h3{
+height: 94px;
+width: 420px;
+
+
+color: #212529;
+font-weight: 500;
+
+
+font-size: 18px;
+
+
+}
+.arrow1{
+height: 68px;
+width: 422px;
+display: flex;
+flex-direction: row;
+text-decoration: none;
+color: #212529;
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+
+
+}
+.arrow1:hover{
+   height:72px;
+width: 224px;
+background-color: #e0f0fe;
+
+}
+.f1{
+
+color: #212529;
+font-weight:bold;
+
+font-size: 23px;
+
+}
+.image{
+height: 68px;
+width: 26px;
+margin-top: 30px;
+margin-left: 12px;
+}
+.image2{
+height: 388px;
+width: 100%;
+background-size: cover;
+background-image: url(IMAGE2.png);
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+transition-timing-function: ease-in;
+
+
+
+}
+.image2:hover{
+   transform: perspective(800px) rotate3d(0, 50, 0, 180deg);
+}
+
+.box3{
+height: 388px;
+width: 1060px;
+display: flex;
+flex-direction: row;
+
+}
+.e1{
+height: 320px;
+width: 520px;
+}
+
+h2{
+height: 120px;
+width: 420px;
+
+
+color: #212529;
+font-weight: lighter;
+
+font-size: 50px;
+
+
+}
+
+
+
+h3{
+height: 94px;
+width: 420px;
+
+
+color: #212529;
+font-weight: 500;
+
+
+font-size: 18px;
+
+
+}
+.arrow2{
+height: 68px;
+width: 422px;
+display: flex;
+flex-direction: row;
+text-decoration: none;
+color: #212529;
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+
+
+}
+.arrow2:hover{
+   height:72px;
+width: 224px;
+background-color: #e0f0fe;
+
+}
+.f2{
+
+
+color: #212529;
+font-weight:bold;
+
+font-size: 23px;
+
+}
+.image{
+height: 68px;
+width: 26px;
+margin-top: 30px;
+margin-left: 12px;
+}
+
+.image3{
+height: 388px;
+width: 100%;
+background-size: cover;
+background-image: url(IMAGE3.jpg);
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+transition-timing-function: ease-in;
+
+
+
+}
+.image3:hover{
+   transform: perspective(800px) rotate3d(0, 50, 0, 180deg);
+}
+.box4{
+height: 388px;
+width: 1060px;
+display: flex;
+flex-direction: row;
+
+
+}
+.g1{
+height: 388px;
+width: 520px;
+}
+
+h2{
+height: 120px;
+width: 420px;
+
+
+color: #212529;
+font-weight: lighter;
+
+font-size: 50px;
+
+
+}
+
+
+
+h3{
+height: 94px;
+width: 420px;
+
+
+color: #212529;
+font-weight: 500;
+
+
+font-size: 18px;
+
+
+}
+.arrow3{
+height: 68px;
+width: 422px;
+display: flex;
+flex-direction: row;
+text-decoration: none;
+color: #212529;
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+
+}
+.arrow3:hover{
+   height:72px;
+width: 224px;
+background-color: #e0f0fe;
+
+}
+.f3{
+
+color: #212529;
+font-weight:bold;
+
+font-size: 23px;
+
+}
+.image{
+height: 68px;
+width: 26px;
+margin-top: 30px;
+margin-left: 12px;
+}
+.image4{
+height: 388px;
+width: 100%;
+background-size: cover;
+background-image: url(IMAGE4.jpg);
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+transition-timing-function: ease-in;
+
+
+
+}
+.image4:hover{
+   transform: perspective(800px) rotate3d(0, 50, 0, 180deg);
+}
